@@ -1,0 +1,11 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /api/
+Disallow: /admin/
+
+# Host
+Host: https://your-amplify-app-url.amplifyapp.com
+
+# Sitemaps
+Sitemap: https://your-amplify-app-url.amplifyapp.com/sitemap.xml
